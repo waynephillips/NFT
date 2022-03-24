@@ -1,0 +1,23 @@
+{
+  "name": "NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "config": "^3.3.7",
+    "dotenv": "^16.0.0",
+    "solc": "^0.8.11",
+    "truffle": "^5.4.8"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
